@@ -1,0 +1,89 @@
+body{
+    background-image: url("cyalbum/bc.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.picture{
+    width: 280px;
+    height: 200%;
+    border-radius:150px;
+}
+
+.pict{
+    text-align: center;
+    color: rgb(190, 11, 11);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+}
+
+.HOBBIES{
+    
+}
+
+.mydream{
+    width: 500px;
+    color: rgb(11, 190, 226);
+
+}
+.text{
+   align-items: center;
+   margin-left: 290px;
+   color: white;
+}
+.n{
+font-weight: bold;
+font-size: 40px;
+color: white;
+text-align: center;
+}
+.programmer{
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.program{
+    width:300px;
+    color: white;
+}
+.journey{
+    width: 400px;
+    color: white;
+}
+.img{
+    width: 300px;
+    border-radius: 50%;
+    color: white;
+    border-radius:150px;
+}
+.nav{
+  display: flex;
+  gap: 100px;
+  list-style: none;
+  padding-left:300px;
+  margin: 10px;
+  background-color: aliceblue;ar
+  border-style: double;
+  color: white;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    justify-content: space-between;
+    color: white;
+
+}
+.end{
+    font-weight: bold;
+    color: white;
+}
